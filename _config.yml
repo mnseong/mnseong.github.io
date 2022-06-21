@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'profile.jpg'
-  greetings: "Welcome to Minsung's TechHub 💻"
+  greetings: "Welcome to Minseong's TechHub 💻"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/

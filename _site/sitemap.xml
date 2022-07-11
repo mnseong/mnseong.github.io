@@ -64,4 +64,8 @@
 <url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/project.html</loc>
+<lastmod>2022-07-11T21:37:06+09:00</lastmod>
+</url>
 </urlset>

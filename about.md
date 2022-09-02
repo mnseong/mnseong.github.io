@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+**Minseong-kweon** is currently working as a Software-Engineer.  He is attending Pusan National University and majoring in mechanical engineering and double major in IoT.
 
 His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
 

@@ -25,13 +25,15 @@
 .post-thumbnail {
   display: block;
   margin-bottom: 1.66667em;
+  text-align: center;
 }
 
 .post-thumbnail img {
-  width: 100%;
+  width: 700px;
 }
 
-.post-meta, .caption-text {
+.post-meta,
+.caption-text {
   color: $gray-light;
   font-size: 0.77778rem;
   letter-spacing: 1px;
@@ -42,7 +44,7 @@
 .caption-text {
   margin-bottom: 1.66667em;
   padding-top: 1%;
-  text-align: center; 
+  text-align: center;
 }
 
 .post-tags,
@@ -196,7 +198,7 @@ ul.archive-posts-list {
   list-style: none;
   padding-left: 0;
   li {
-    margin-bottom: 0.5555555555555556em
+    margin-bottom: 0.5555555555555556em;
   }
 }
 
@@ -316,7 +318,7 @@ ul.archive-posts-list {
 }
 
 .post-featured {
-   flex: 0 0 100%;
+  flex: 0 0 100%;
 }
 
 .post-featured .post-inside {

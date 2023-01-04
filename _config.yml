@@ -1,19 +1,19 @@
 # Site setings
-name: 'Minseong'
-description: 'Software Engineer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: "Minseong"
+description: "Software Engineer"
+meta_description: "Jekyll template, minimal style, perfect for bloggers."
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'profile.jpg'
+  image: "profile.jpg"
   greetings: "Welcome to Minseong's TechHub 💻"
-favicon: 'assets/images/favicon.ico'
-baseurl: 
+favicon: "assets/images/favicon.ico"
+baseurl:
 production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+disqus: "justgoodthemes"
+mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 # Contact form setings
 email: mskweon@icloud.com
@@ -23,13 +23,13 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Social links
 # twitter: 'justgoodthemes'
 # facebook: 'username'
-github: 'mnseong'
+github: "mnseong"
 # codepen: 'username'
 # dribbble: 'username'
 # medium: '@username'
-instagram: 'mskwe0n'
+instagram: "mskwe0n"
 # pinterest: 'username'
-linkedin: 'minseong-kweon-98472323b'
+linkedin: "minseong-kweon-98472323b"
 # producthunt: '@username'
 # quora: 'username'
 
@@ -55,7 +55,7 @@ plugins_dir:
   - jekyll-sitemap
 
 # Pagination
-paginate: 5
+paginate: 6
 paginate_path: /page:num/
 
 # Permalinks

@@ -1,0 +1,15 @@
+I"j<figure>
+  <img src="/assets/images/project/credot/credot1.png" alt="Concrete roads" width="70%" />
+  
+  <figcaption class="caption-text">This is caption</figcaption>
+  
+</figure>
+
+<figure>
+  <img src="/assets/images/project/credot/credot2.png" alt="Concrete roads" width="70%" />
+  
+  <figcaption class="caption-text">This is caption</figcaption>
+  
+</figure>
+
+:ET

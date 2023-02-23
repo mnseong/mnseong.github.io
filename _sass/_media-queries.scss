@@ -2,7 +2,8 @@
  * 6. Media Queries
  * ----------------------------------------------------------------------------
  */
-@media only screen and (min-width: 601px) and (max-width: 800px), only screen and (min-width: 1001px) {
+@media only screen and (min-width: 601px) and (max-width: 800px),
+  only screen and (min-width: 1001px) {
   .post-featured .post-title {
     font-size: 1.33333rem;
   }
@@ -16,7 +17,7 @@
   }
   .post-featured.has-image:only-child .post-header,
   .post-featured.has-image:first-child:nth-last-child(3) .post-header {
-    background: rgba($gray-darkest,.9);
+    background: rgba($gray-darkest, 0.9);
     border-left: 2px solid $color-accent;
     bottom: 1.66667em;
     left: 2.5em;
@@ -185,8 +186,8 @@
     margin-right: calc(510px - 47vw);
   }
   .post-full .post-thumbnail,
-  .post-content img[src$='#wide'],
-  .post-content img[src$='#full'],
+  .post-content img[src$="#wide"],
+  .post-content img[src$="#full"],
   .kg-width-wide .kg-image,
   .kg-width-full .kg-image {
     margin-left: calc(510px - 47vw);
@@ -203,11 +204,11 @@
     margin-right: -180px;
   }
   .post-full .post-thumbnail,
-  .post-content img[src$='#wide'],
-  .post-content img[src$='#full'],
+  .post-content img[src$="#wide"],
+  .post-content img[src$="#full"],
   .kg-width-wide .kg-image,
   .kg-width-full .kg-image {
-     margin-left: -180px;
+    margin-left: -180px;
     margin-right: -180px;
     max-width: none;
     width: 1080px;
@@ -235,8 +236,8 @@
   }
   .menu--opened .site-navigation {
     right: 0;
-    -webkit-transition: right .3s ease-in-out;
-    transition: right .3s ease-in-out;
+    -webkit-transition: right 0.3s ease-in-out;
+    transition: right 0.3s ease-in-out;
     visibility: visible;
   }
   h1,
@@ -288,7 +289,6 @@
   .gh-subscribe-form {
     -ms-flex-direction: column;
     flex-direction: column;
-
   }
   .gh-subscribe-form .button {
     -webkit-align-self: flex-start;

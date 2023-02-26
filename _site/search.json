@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Transformer",
+      "category" : "",
+      "tags"     : "NLP, Sequence Modeling, Machine Learning, Deep Learning",
+      "url"      : "/transformer",
+      "date"     : "February 23, 2023"
+    } ,
+  
+    {
       "title"    : "About Transfer Learning",
       "category" : "",
       "tags"     : "Machine Learning, Deep Learning",

@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Focal Loss",
+      "category" : "",
+      "tags"     : "Loss function, Object Detection, Classification, Deep Learning",
+      "url"      : "/focal-loss",
+      "date"     : "February 17, 2023"
+    } ,
+  
+    {
       "title"    : "About Transfer Learning",
       "category" : "",
       "tags"     : "Machine Learning, Deep Learning",

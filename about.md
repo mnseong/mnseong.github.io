@@ -10,3 +10,5 @@ Minseong has been working as an early developer at a B2B startup called Sandburg
 
 안녕하세요, 부산대학교 재학 중인 권민성입니다  
 Vision 및 Multi Modal AI에 관심이 많습니다
+
+![exp.png](assets/images/experience.png)

@@ -41,8 +41,6 @@ navigation:
     url: /about
   - text: Project
     url: /project
-  - text: Style Guide
-    url: /style-guide
   - text: Contact Me
     url: /contact
   - text: Search
@@ -55,7 +53,7 @@ plugins_dir:
   - jekyll-sitemap
 
 # Pagination
-paginate: 6
+paginate:
 paginate_path: /page:num/
 
 # Permalinks

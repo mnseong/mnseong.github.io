@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR 해결 후기",
+      "category" : "",
+      "tags"     : "CUDA, cuDNN, ERROR",
+      "url"      : "/cuDNN-error",
+      "date"     : "March 25, 2023"
+    } ,
+  
+    {
       "title"    : "Transformer",
       "category" : "",
       "tags"     : "NLP, Sequence Modeling, Machine Learning, Deep Learning",

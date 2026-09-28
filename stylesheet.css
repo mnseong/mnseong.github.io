@@ -201,6 +201,7 @@ h2 {
 }
 .profile-text p:not(.role) { color: var(--text-2); }
 .profile-text strong { color: var(--text); font-weight: 600; }
+.profile-text strong.highlight { color: var(--accent); }
 
 .profile-photo img {
   display: block;
